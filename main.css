@@ -114,9 +114,12 @@ footer li img{
     height: 32px;
 }
 
-.carousel-fade{
-    position: relative;
+.navbar-toggler-icon{
+    background-color: #fff;
 }
+
+
+
 
 
 
